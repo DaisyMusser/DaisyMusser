@@ -2,7 +2,7 @@
 ### Hi, I'm Daisy!
 
 🏫 Studied Computer Science at Colorado College.<br/>
-📖 Currently reading [Virtual Light](https://www.goodreads.com/book/show/77773.To_Say_Nothing_of_the_Dog?ref=nav_sb_ss_1_15) by William Gibson.<br/>
+📖 Currently reading [Virtual Light](https://www.goodreads.com/book/show/22326.Virtual_Light) by William Gibson.<br/>
 🏆 Favorite book I've read this year is [Nevada](https://www.goodreads.com/book/show/58837536-nevada) by Emogen Binnie.<br/>
 <!--
 <picture>
